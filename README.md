@@ -7,6 +7,7 @@ Before software, I owned and ran three independent pharmacies for eight years. T
 **What I'm working on**
 
 - **[tickstream](https://github.com/mpatel5/tickstream)**: streaming sketch algorithms and pair statistics for market data. It has a header-only C++20 core (Count-Min Sketch, HyperLogLog, reservoir sampling) and Python bindings driving a pairs-trading backtester.
+- **[ip-sketch-bench](https://github.com/mpatel5/ip-sketch-bench)**: a benchmark of vector compression schemes (scalar and adaptive stochastic quantization, JL, CountSketch, QJL, product quantization) by how well they preserve inner products, the operation behind attention and vector search.
 - **OpenRx** ([live demo](https://open-rx-vkwz.onrender.com)): a medication-management digital twin I'm building as software architect and lead developer on a four-person team. A deterministic reasoning engine is the system of record, and an LLM layer explains its decisions.
 
 **Tools I use most:** C, C++, Python, Java, SQL · Linux, pthreads, epoll · PostgreSQL/pgvector · Spring Boot · pybind11 · CMake
