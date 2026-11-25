@@ -1,6 +1,6 @@
 ### Hi, I'm Mitesh 👋
 
-I build **AI systems** and the algorithms that make them efficient: compressing the vectors behind attention and retrieval, building LLM-powered applications, and writing performance-focused **C/C++ and Python** for AI and quantitative finance. I'm finishing a Master of Applied Science in Computer Science (MAS-CS) at the University of Pennsylvania, where I'm also a Teaching Assistant for Computer Systems Programming.
+I build **AI systems** and the algorithms that make them efficient: compressing the vectors behind attention and retrieval, building LLM-powered applications, and writing performance-focused **C/C++ and Python** for AI and quantitative finance. I'm finishing a Master of Applied Science in Computer Science (MAS-CS) at the University of Pennsylvania, where I'm also a Teaching Assistant for two graduate computer systems courses: Computer Systems Programming and Introduction to Computer Systems.
 
 Before software, I owned and ran three independent pharmacies for eight years. That's where I learned to build things that have to be right the first time.
 
